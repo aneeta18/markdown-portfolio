@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ol>
+    <li>Sleep</li>
+    <li>Eat</li>
+    <li>Phone</li>
+</ol>
